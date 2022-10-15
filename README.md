@@ -11,3 +11,6 @@ progresses.
 The game could feature multiple modes, such as a player vs player mode, or a mode more focused arround building
 a deck of the cards that have been earned throughout the main story. The game should feature AI voices from
 IDM to help voice some of the characters. It will be developed in Android Studio with Java.
+
+
+[Gantt Chart](https://uob-my.sharepoint.com/:x:/g/personal/tm21064_bristol_ac_uk/Eawx_-tD16lDkWZellTm-EgBApA7P2yy6c2a8kqFwhnR7g)
