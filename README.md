@@ -12,5 +12,8 @@ The game could feature multiple modes, such as a player vs player mode, or a mod
 a deck of the cards that have been earned throughout the main story. The game should feature AI voices from
 IDM to help voice some of the characters. It will be developed in Android Studio with Java.
 
+## User stories
+As an employee at IBM, John wanted us to create a space game to help kids from 6-12 learn math.
+
 ## Quick link
 * [Gantt Chart](https://uob-my.sharepoint.com/:x:/g/personal/tm21064_bristol_ac_uk/Eawx_-tD16lDkWZellTm-EgBApA7P2yy6c2a8kqFwhnR7g)
