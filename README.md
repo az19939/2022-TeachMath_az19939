@@ -3,9 +3,9 @@
 ## Table of Contents
 - [2022-TeachMath](#2022-teachmath)
 - [Project Description](#project-description)
-- [Group members](#Group members)
-- [User stories](#User stories)
-- [Quick link](#Quick link)
+- [Group members](#group members)
+- [User stories](#user stories)
+- [Quick link](#quick link)
  
 ## Project Description
 We are to design a maths video game phone app aimed at both children attending school and adults who 
