@@ -1,5 +1,13 @@
 # 2022-TeachMath
 
+## Table of Contents
+- [2022-TeachMath](#2022-teachmath)
+- [Project Description](#project-description)
+- [Group members](#Group members)
+- [User stories](#User stories)
+- [Quick link](#Quick link)
+ 
+## Project Description
 We are to design a maths video game phone app aimed at both children attending school and adults who 
 struggle with maths. We plan to design a card game system to help teach addition, subtraction, 
 multiplication and division, with the numbers getting higher as you advance through the story, 
@@ -11,6 +19,7 @@ progresses.
 The game could feature multiple modes, such as a player vs player mode, or a mode more focused arround building
 a deck of the cards that have been earned throughout the main story. The game should feature AI voices from
 IDM to help voice some of the characters. It will be developed in Android Studio with Java.
+
 ## Group members
 * Xiaopeng Ding
 
