@@ -35,9 +35,9 @@ IDM to help voice some of the characters. It will be developed in Android Studio
 As an employee at IBM, John wanted us to create a space game to help kids from 6-12 learn math.
 
 ## Stakeholders
-*Children aged 6-12: As the main beneficiaries, they can use what they have learned during the game to make the ships in the game play against other players or AI players through simple addition, subtraction, multiplication and division. Additionally, the system increases the power of their miscalculated cards based on their success rate to balance their abilities.
+* Children aged 6-12: As the main beneficiaries, they can use what they have learned during the game to make the ships in the game play against other players or AI players through simple addition, subtraction, multiplication and division. Additionally, the system increases the power of their miscalculated cards based on their success rate to balance their abilities.
 
-*Parents and teachers: They can play against their children by becoming rivals to understand their children's numeracy and help them improve and strengthen it. In addition, it can promote the relationship between the children and their parents and teachers.
+* Parents and teachers: They can play against their children by becoming rivals to understand their children's numeracy and help them improve and strengthen it. In addition, it can promote the relationship between the children and their parents and teachers.
 
 ## Quick link
 * [Gantt Chart](https://uob-my.sharepoint.com/:x:/g/personal/tm21064_bristol_ac_uk/Eawx_-tD16lDkWZellTm-EgBApA7P2yy6c2a8kqFwhnR7g)
