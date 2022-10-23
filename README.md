@@ -5,6 +5,7 @@
 - [Project Description](#project-description)
 - [Group members](#group-members)
 - [User stories](#user-stories)
+- [Stakeholders](#stakeholders)
 - [Quick link](#quick-link)
  
 ## Project Description
