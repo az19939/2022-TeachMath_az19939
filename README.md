@@ -34,7 +34,7 @@ IDM to help voice some of the characters. It will be developed in Android Studio
 
 ## User stories
 As an employee at IBM, John wanted us to create a space game to help kids from 6-12 learn math.
-- [user stories](#Specifications/Document User Stories)
+- [user stories](https://github.com/spe-uob/2022-TeachMath/blob/ed5f984da591bd4113c67aaa0c82bf2397873ec4/Specifications/Document%20User%20Stories）
 
 ## Stakeholders
 * Children aged 6-12: As the main beneficiaries, they can use what they have learned during the game to make the spaceships in the game play against other players or AI players through simple addition, subtraction, multiplication and division. Additionally, the system increases the power of their miscalculated cards based on their calculated success rate to balance their abilities.
