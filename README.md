@@ -33,7 +33,21 @@ IBM to help voice some of the characters. It will be developed in Android Studio
 * Lihan Shen
 
 ## User stories
-As an employee at IBM, John wanted us to create a space game to help kids from 6-12 learn math.
+### Client at IBM
+
+I am the client at IBM who commissioned this project. My goal is to see if there are better, more imaginative ways to teach maths after bad experiences with existing programs. I would also like to see how IBM tech services can be used in conjunction with web applications to facilitate an interactive learning experience.
+
+### Teacher
+
+I am a teacher who is using this service. My goal is to give my students a good tool to help them develop their basic maths skills in addition to the teaching they receive in the classroom. Therefore, I would like to have a game that already assumes basic knowledge of the main concepts, and actively challenges my students at a level appropriate for them.
+
+### Parent
+
+I am a parent using this service. My goal is to provide extra learning resources for my child outside of school. Since I only have one - a few children, I would ideally like a more personalised experience based on what they need to learn. I would like the game to be engaging like a game so that it does not feel like tedious schoolwork and also cover concepts and methods that may be difficult for me to explain.
+
+### Child
+
+I am a child using this service. My goal is to learn more maths skills while having fun. Therefore, I would like to feel like I am playing a game while I am being appropriately challenged.
 
 ## Stakeholders
 * Children aged 6-12: As the main beneficiaries, they can use what they have learned during the game to make the spaceships in the game play against other players or AI players through simple addition, subtraction, multiplication and division. Additionally, the system increases the power of their miscalculated cards based on their calculated success rate to balance their abilities.
