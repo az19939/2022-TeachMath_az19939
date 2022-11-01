@@ -1,4 +1,4 @@
-# 2022-TeachMath
+# 2022-A game to teach maths
 
 ## Table of Contents
 - [2022-TeachMath](#2022-teachmath)
