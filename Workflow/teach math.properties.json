@@ -1,0 +1,8 @@
+{
+    "name": "teach math",
+    "description": "Teach math game app",
+    "iconName": "TeachMath",
+    "categories": [
+        "Java"
+    ]
+}
